@@ -4,6 +4,10 @@
 
 #### Profession
 _Student_
+
+### Info about me
+I go to the school called, The highschool of telecommunication of arts and technology. I love going outside and hanging out with friends
+
 ### Years of Experience
 _**3 years**_ of experience
   Have a reference [email here](https://docs.google.com/document/d/1C5EUMwha2S5mQ9DNEyOtqr_S7OGabronr8rV_6CSNOs/edit)
