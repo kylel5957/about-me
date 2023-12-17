@@ -6,7 +6,7 @@
 _Student_
 
 ### Info about me
-I go to the school called, The highschool of telecommunication of arts and technology. I love going outside and hanging out with friends. I also
+I go to the school called, The highschool of telecommunication of arts and technology. I love going outside and hanging out with friends. I also love volunteering and helping out my community.
 
 ### Years of Experience
 _**3 years**_ of experience
