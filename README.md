@@ -6,7 +6,7 @@
 _Student_
 
 ### Info about me
-I go to the school called, The highschool of telecommunication of arts and technology. I love going outside and hanging out with friends
+I go to the school called, The highschool of telecommunication of arts and technology. I love going outside and hanging out with friends. I also
 
 ### Years of Experience
 _**3 years**_ of experience
@@ -18,7 +18,9 @@ kylel119@nycstudents.net or just ask my teachers
 I love to play many different things and is passionate about them, some hobbies include
 
 * Chess
+  * not that good
 * Playing Videogames
+  * 5v5s or battle royales
 * Hanging out with friends
 * Eating
 * And many more
